@@ -1,3 +1,25 @@
+
+# mac特有フォルダ
+*.DS_Store
+
+# メモ系
+**/メモ.txt
+**/memo.txt
+**/tmp.txt
+**/memo/
+
+# 環境ファイル系
+*.env
+
+# 一時的なメモフォルダ
+**/tmp/
+
+# execution file
+*.out
+
+# Raw data
+**/data/
+
 # Prerequisites
 *.d
 
